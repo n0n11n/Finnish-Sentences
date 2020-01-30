@@ -3,7 +3,7 @@ Simple courseproject to demonstrate PHP, SQL, CSS and JQuery
 
 Demo:
 
-[http://n0n11n.heliohost.org/suomi1/]
+http://n0n11n.heliohost.org/suomi1/
 
 
 Screenshot:
